@@ -1,0 +1,6 @@
+[package]
+name = "ternary-genome"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Genetic encoding and expression for evolving ternary agent populations"
