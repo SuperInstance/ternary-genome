@@ -85,6 +85,14 @@ Crossover preserves genome structure — chromosome names, gene names, and domin
 
 Part of the SuperInstance ternary crate family. `ternary-genome` provides the genetic algorithm foundation that `ternary-ga` and `ternary-evolution-advanced` build upon. It feeds evolved genomes into `ternary-agent` for instantiation and `ternary-ecosystem` for population-level simulation.
 
+## See Also
+
+- **ternary-ga** — Genetic algorithms with ternary genomes
+- **ternary-fitness** — Fitness landscape analysis for ternary strategies
+- **ternary-popgen** — Population genetics for ternary agents
+- **ternary-evolution-advanced** — Advanced evolutionary optimization
+- **ternary-cell** — Cellular computing with ternary state machines
+
 ## License
 
 MIT
